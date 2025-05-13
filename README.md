@@ -36,10 +36,10 @@
   <a href="https://www.linkedin.com/in/edemilson-correia-da-silva-95687058/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.instagram.com/seuusuario/" target="_blank">
+  <a href="https://www.instagram.com/edi84_correia/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto:edemilson.correia84@gmail.com">
     <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
