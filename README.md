@@ -1,6 +1,9 @@
 ## Olá Mundo! 👋
 
-teste
+Me chamo Edi Correia, Sou brasileiro e trabalho com desenvolvimento web com foco em educação corporativa.
+Rafa-Js Rafa-Ts Rafa-React Rafa-HTML Rafa-CSS Rafa-Python Rafa-Csharp 🔭
+     
+
 
 <!--
 **EdiCorreia/edicorreia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
