@@ -1,6 +1,6 @@
 ## Olá Mundo! 👋
 
-<h1 align="center">Olá, eu sou [Seu Nome] 👋</h1>
+<h1 align="center">Edi Correia 👋</h1>
 <p align="center">🌱 Em transição de carreira para o mundo DEV | 🚀 Explorando tecnologias criativas</p>
 
 ---
