@@ -9,7 +9,7 @@
 
 🎯 Aqui apresento meus projetos e estudos em desenvolvimento web e mobile  
 💡 Apaixonado por design, educação corporativa, interfaces e experiências de usuário  
-🎓 Formato em Design de Produtos e MBA em Gestão de projetos 
+🎓 Formato em Design de Produtos e MBA em Gestão de projetos<br> 
 🔁 Migrando minha experiência em educação corporativa para o universo da tecnologia  
 
 ---
