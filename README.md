@@ -1,7 +1,7 @@
 ## Olá Mundo! 👋
 
 <h1 align="center">Edi Correia</h1>
-<p align="center">🌱 Foco em front end e mobile para educação corporativa | 🚀 Explorando tecnologias criativas</p>
+<p align="center">🌱 Foco em front end e mobile | 🚀 Explorando tecnologias criativas</p>
 
 ---
 
