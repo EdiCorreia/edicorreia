@@ -1,16 +1,16 @@
 ## Olá Mundo! 👋
 
-<h1 align="center">Edi Correia 👋</h1>
-<p align="center">🌱 Em transição de carreira para o mundo DEV | 🚀 Explorando tecnologias criativas</p>
+<h1 align="center">Edi Correia</h1>
+<p align="center">🌱 Foco em front end e mobile para educação corporativa | 🚀 Explorando tecnologias criativas</p>
 
 ---
 
 ### 🚀 Sobre mim
 
-🎯 Atualmente estudando desenvolvimento web e mobile  
-💡 Apaixonado por design, interfaces e experiências de usuário  
-🎓 Estudando na plataforma [Alura](https://www.alura.com.br)  
-🔁 Migrando de [sua área anterior] para o universo da tecnologia  
+🎯 Aqui apresento meus projetos e estudos em desenvolvimento web e mobile  
+💡 Apaixonado por design, educação corporativa, interfaces e experiências de usuário  
+🎓 Formato em Design de Produtos 
+🔁 Migrando minha experiência em educação corporativa para o universo da tecnologia  
 
 ---
 
