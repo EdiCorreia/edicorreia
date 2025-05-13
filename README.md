@@ -9,7 +9,7 @@
 
 🎯 Aqui apresento meus projetos e estudos em desenvolvimento web e mobile  
 💡 Apaixonado por design, educação corporativa, interfaces e experiências de usuário  
-🎓 Formato em Design de Produtos 
+🎓 Formato em Design de Produtos e MBA em Gestão de projetos 
 🔁 Migrando minha experiência em educação corporativa para o universo da tecnologia  
 
 ---
@@ -46,12 +46,6 @@
 
 ---
 
-### 📊 Estatísticas GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=tokyonight"/>
-</div>
      
 
 <!--
