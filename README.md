@@ -24,8 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/google-slides.png" alt="Google Genially" width="40" height="40"/>
-  <img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/external-ispring-digital-marketing-flatart-icons-flat-flatarticons.png" alt="iSpring" width="40" height="40"/>
 </div>
 
 ---
